@@ -1,4 +1,4 @@
-import { updateContacts } from '../utils/updateContacts.js';
+import updateContacts from '../utils/updateContacts.js';
 import { createFakeContact } from '../utils/createFakeContact.js';
 import { getAllContacts } from './getAllContacts.js';
 
